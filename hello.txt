@@ -1,2 +1,2 @@
 Hello, git, hi!
-Lets try notepad!
+git gui test
