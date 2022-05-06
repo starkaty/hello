@@ -1,2 +1,1 @@
-Hello, git, hi!
-git gui test 1
+Новая строка
